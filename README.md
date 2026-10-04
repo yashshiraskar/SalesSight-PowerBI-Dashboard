@@ -29,7 +29,7 @@ An interactive **Power BI dashboard** designed to analyze e-commerce sales perfo
 - **Power BI**
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Measures and calculated metrics
-- **Data Visualization**
+- **Data Visualization** – KPI Cards, Bar Charts, Line Charts, Donut Charts, Tables, and Slicers
 - **Business Intelligence & Analytics**
 
 ## 📈 Dashboard Features
